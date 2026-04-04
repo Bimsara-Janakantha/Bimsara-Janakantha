@@ -16,14 +16,14 @@
 
 - 📫 How to reach me **janakanthaofficial@gmail.com**
 
-- 📄 Know about my experiences [me.bitnexlabs.dev](me.bitnexlabs.dev)
+- 📄 Know about my experiences [myblogs](me.bitnexlabs.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bimsara-janakantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bimsara-janakantha/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Contributions in the last year</h3>
+<h3 align="left">Contributions in the last year:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bimsara-Janakantha/Bimsara-Janakantha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bimsara-Janakantha/Bimsara-Janakantha/output/pacman-contribution-graph.svg">
