@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bimsara Janakantha</h1>
 <h3 align="center">A Passionate Computer Engineer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimsara-janakantha&label=Profile%20views&color=0e75b6&style=flat" alt="bimsara-janakantha" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bimsara-janakantha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bimsara-Janakantha.Bimsara-Janakantha" alt="visitor badge"/>
+</div>
 
 - 🌱 I’m currently learning **NextJs**
 
@@ -19,7 +22,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bimsara-janakantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bimsara-janakantha/" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Contributions in the last year</h3>
 <picture>
