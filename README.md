@@ -21,7 +21,7 @@
 </p>
 
 
-<h3 align="left">contributions in the last year</h3>
+<h3 align="left">Contributions in the last year</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bimsara-Janakantha/Bimsara-Janakantha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bimsara-Janakantha/Bimsara-Janakantha/output/pacman-contribution-graph.svg">
